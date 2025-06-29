@@ -1,0 +1,3 @@
+[submodule "themes/ch7aki"]
+	path = themes/ch7aki
+	url = https://github.com/ch7aki/ch7aki_hugo_theme.git
